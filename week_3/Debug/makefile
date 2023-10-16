@@ -75,8 +75,8 @@ all: main-build
 main-build: blinky.elf secondary-outputs
 
 # Tool invocations
-blinky.elf blinky.map: $(OBJS) $(USER_OBJS) /Users/owner/Documents/Making\ Embedded\ Systems/Week\ 3/STM32L152RCTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-g++ -o "blinky.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/Users/owner/Documents/Making Embedded Systems/Week 3/STM32L152RCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="blinky.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+blinky.elf blinky.map: $(OBJS) $(USER_OBJS) /Users/owner/Documents/Making-Embedded-Systems/week_3/STM32L152RCTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-g++ -o "blinky.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"/Users/owner/Documents/Making-Embedded-Systems/week_3/STM32L152RCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="blinky.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
