@@ -1,0 +1,3 @@
+/Users/owner/Documents/Making-Embedded-Systems/week_5/build/debug/build/CMakeFiles/rebuild_cache.dir
+/Users/owner/Documents/Making-Embedded-Systems/week_5/build/debug/build/CMakeFiles/edit_cache.dir
+/Users/owner/Documents/Making-Embedded-Systems/week_5/build/debug/build/CMakeFiles/command_line_interface.dir

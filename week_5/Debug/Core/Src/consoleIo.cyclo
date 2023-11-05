@@ -1,0 +1,3 @@
+../Core/Src/consoleIo.c:9:15:ConsoleIoInit	1
+../Core/Src/consoleIo.c:13:15:ConsoleIoReceive	1
+../Core/Src/consoleIo.c:31:15:ConsoleIoSendString	1

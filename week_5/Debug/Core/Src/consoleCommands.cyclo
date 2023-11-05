@@ -1,0 +1,9 @@
+../Core/Src/consoleCommands.c:43:25:ConsoleCommandComment	1
+../Core/Src/consoleCommands.c:50:25:ConsoleCommandHelp	2
+../Core/Src/consoleCommands.c:71:25:ConsoleCommandParamExampleInt16	2
+../Core/Src/consoleCommands.c:87:25:ConsoleCommandParamExampleHexUint16	2
+../Core/Src/consoleCommands.c:101:25:ConsoleCommandVer	1
+../Core/Src/consoleCommands.c:112:25:ConsoleCommandToggleGreenLed	1
+../Core/Src/consoleCommands.c:119:25:ConsoleCommandToggleBlueLed	1
+../Core/Src/consoleCommands.c:126:25:ConsoleCommandGetXYZPosition	1
+../Core/Src/consoleCommands.c:146:31:ConsoleCommandsGetTable	1

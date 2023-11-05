@@ -1,0 +1,22 @@
+# ninja log v5
+2	127	1699210659047528830	CMakeFiles/command_line_interface.dir/Core/Startup/startup_stm32l152rctx.s.obj	34af0037a807af2b
+2	131	1699210659050495111	CMakeFiles/command_line_interface.dir/Core/Src/sysmem.c.obj	af3f5500e9a5375a
+1	163	1699210659084590743	CMakeFiles/command_line_interface.dir/Core/Src/syscalls.c.obj	bfb5c239bbed2ada
+0	243	1699210659161519170	CMakeFiles/command_line_interface.dir/Core/Src/main.c.obj	217dd73dd1c58523
+1	267	1699210659181349857	CMakeFiles/command_line_interface.dir/Core/Src/stm32l1xx_hal_msp.c.obj	c36b90d07c181a16
+2	272	1699210659189418384	CMakeFiles/command_line_interface.dir/Core/Src/system_stm32l1xx.c.obj	ce34fe2bcffe31b3
+1	276	1699210659190471761	CMakeFiles/command_line_interface.dir/Core/Src/stm32l1xx_it.c.obj	f8d9d29ebaedf5af
+5	297	1699210659215459239	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_exti.c.obj	da1cdd71aba70ae5
+3	300	1699210659219418726	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_cortex.c.obj	147f83bbfd715064
+3	412	1699210659330705514	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_dma.c.obj	3a6b4973bd938e30
+131	470	1699210659390396007	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c.obj	2fef2d022d08cbaf
+276	483	1699210659402259132	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c.obj	18a6989c088f4eea
+243	499	1699210659415485076	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_gpio.c.obj	2e99f303db09ecfa
+163	502	1699210659419770590	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash.c.obj	5ca3b05613d6355e
+267	510	1699210659426875956	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr_ex.c.obj	374b26395ce7031e
+272	535	1699210659455406179	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_pwr.c.obj	96897685a9d8a499
+128	608	1699210659525596520	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ex.c.obj	6bdb6847ad4a9f2a
+412	617	1699210659534680546	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal.c.obj	4a5b0f982da8bb20
+298	621	1699210659541360669	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc.c.obj	48678f8689ab8a58
+300	681	1699210659600894857	CMakeFiles/command_line_interface.dir/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_uart.c.obj	339c222299064b96
+681	1124	1699210659690431762	command_line_interface.elf	ec36ee51d004157
